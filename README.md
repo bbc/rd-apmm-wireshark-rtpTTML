@@ -1,6 +1,6 @@
 # Wireshark RTP TTML disector
 
-This plugin for the [Wireshark protocol analyzer](https://www.wireshark.org/) provides the means to verify that an implementation is correctly producing the required header fields for [TTML RTP](https://datatracker.ietf.org/doc/draft-ietf-payload-rtp-ttml/) packets.
+This plugin for the [Wireshark protocol analyzer](https://www.wireshark.org/) provides the means to verify that an implementation is correctly producing the required header fields for [RFC 8759 TTML RTP](https://datatracker.ietf.org/doc/rfc8759/) packets.
 
 ## Installation
 
