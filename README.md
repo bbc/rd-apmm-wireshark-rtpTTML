@@ -26,7 +26,7 @@ This plugin only fully supports UTF-8. While the header fields will always be de
 
 ## Contributing
 
-Whilst we do not expect contributions to this plugin, we would appreciate reporting of any bugs via GitHub's Issues. We will endeavour to investigate and resolve issues as soon as possible.
+Whilst we do not expect contributions to this plugin, we would appreciate reporting of any bugs via GitHub's Issues. We will endeavour to investigate and resolve issues as soon as possible. Any contributions will be considered on a case-by-case basis.
 
 ## License
 
