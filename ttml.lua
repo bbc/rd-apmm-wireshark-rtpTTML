@@ -1,5 +1,5 @@
 -- Lua Dissector for TTML
--- Author: James Sandford (james.sandford@bbc.co.uk)
+-- Author: BBC R&D (cloudfit-opensource@rd.bbc.co.uk)
 --
 -- This program is free software; you can redistribute it and/or
 -- modify it under the terms of the GNU General Public License

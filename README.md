@@ -31,3 +31,10 @@ Whilst we do not expect contributions to this plugin, we would appreciate report
 ## License
 
 See [LICENSE](LICENSE)
+
+
+## Authors
+
+* James Sandford
+
+For further information, contact <cloudfit-opensource@rd.bbc.co.uk>
